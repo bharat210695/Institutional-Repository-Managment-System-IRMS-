@@ -1,0 +1,2 @@
+# Institutional-Repository-Managment-System-IRMS-
+A web application to provide open access for the institutional students, to create a document-based repository, users can download and upload the document like e-books, class notes, question papers etc. • It comprehensively includes a variety of important techniques, such as HTML, CSS, JavaScript, Java based Framework Spring Boot, MySQL database and Apache Tomcat server.
